@@ -26,8 +26,8 @@ Quit the MYSQL shell and run ``npm run seed`` to seed the files and then ``node 
 Below is a screenshot and also a link to the full walkthrough.
 <img width="800" alt="Screen Shot 2023-09-09 at 10 09 47 PM" src="https://github.com/adriennemadarang/E-Commerce-Back-End/assets/128556908/20230924-d34c-41b0-b890-6b7d46048f60">
 <br>
-
-
+[Click Here for full video walkthrough
+](https://drive.google.com/file/d/1Tl2Bdc5thU39VXGsF62dSRh1nK8GelEI/view)
 
 
 ## Contributions
